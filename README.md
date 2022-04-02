@@ -4,7 +4,7 @@
 
 一个用于Spring Cloud Function SpEL表达式注入的测试环境
 
-可以使用idea自己编译，也可以下载 release直接启动
+可以使用idea自己编译，也可以下载 https://github.com/axingde/spring-cloud-function-spel/releases/tag/0.1 直接启动
 
  java11  运行 java -jar spel-0.0.1-SNAPSHOT.jar 启动
 
